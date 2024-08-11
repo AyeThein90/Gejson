@@ -1,0 +1,1 @@
+GeoJSON is a format for encoding a variety of geographic data structures using JavaScript Object Notation (JSON). It supports various types of geometries such as points, lines, polygons, and their associated properties. GeoJSON is widely used for representing geographic data on the web and is supported by many mapping libraries and GIS (Geographic Information System) software.
